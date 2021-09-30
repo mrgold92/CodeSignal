@@ -1,3 +1,8 @@
 /out/
 /.idea/
 /codesignal.iml
+/nbproject/private/
+/build/
+/nbproject/
+/build.xml
+/manifest.mf
