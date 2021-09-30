@@ -37,3 +37,4 @@
 | Algoritmos                                                   |
 | ------------------------------------------------------------ |
 | [AlternatingSums](https://github.com/mrgold92/CodeSignal/blob/master/src/alternatingSums/Main.java) |
+| [AddBorder](https://github.com/mrgold92/CodeSignal/blob/master/src/addBorder/Main.java) |
