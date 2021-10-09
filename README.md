@@ -40,3 +40,4 @@
 | [AddBorder](https://github.com/mrgold92/CodeSignal/blob/master/src/addBorder/Main.java) |
 | [AreSimilar](https://github.com/mrgold92/CodeSignal/blob/master/src/areSimilar/Main.java) |
 | [ArrayChange](https://github.com/mrgold92/CodeSignal/blob/master/src/arrayChange/Main.java) |
+| [PalindromeRearranging](https://github.com/mrgold92/CodeSignal/blob/master/src/palindromeRearranging/Main.java) |
