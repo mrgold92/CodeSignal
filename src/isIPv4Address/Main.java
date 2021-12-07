@@ -1,3 +1,5 @@
+package isIpv4Address;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println(solution("64.233.161.00"));

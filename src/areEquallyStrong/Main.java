@@ -1,3 +1,5 @@
+package areEquallyStrong;
+
 public class Main {
   public static void main(String[] args) {
     int yourLeft = 10;
