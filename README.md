@@ -44,7 +44,8 @@
 
 ## Island of Knowledge
 | Algoritmos                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------- |
+|-----------------------------------------------------------------------------------------------------------------------------------|
 | [areEquallyStrong](https://github.com/mrgold92/CodeSignal/blob/master/src/areEquallyStrong/Main.java)                             |
 | [arrayMaximalAdjacentDifference](https://github.com/mrgold92/CodeSignal/blob/master/src/arrayMaximalAdjacentDifference/Main.java) |
 | [isIPv4Address](https://github.com/mrgold92/CodeSignal/blob/master/src/isIPv4Address/Main.java)                                   |
+| [avoidObstacles](https://github.com/mrgold92/CodeSignal/blob/master/src/avoidObstacles/Main.java)                                 |
