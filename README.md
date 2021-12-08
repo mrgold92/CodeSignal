@@ -49,3 +49,4 @@
 | [arrayMaximalAdjacentDifference](https://github.com/mrgold92/CodeSignal/blob/master/src/arrayMaximalAdjacentDifference/Main.java) |
 | [isIPv4Address](https://github.com/mrgold92/CodeSignal/blob/master/src/isIPv4Address/Main.java)                                   |
 | [avoidObstacles](https://github.com/mrgold92/CodeSignal/blob/master/src/avoidObstacles/Main.java)                                 |
+| [boxBlur](https://github.com/mrgold92/CodeSignal/blob/master/src/boxBlur/Main.java)                                               |
