@@ -51,3 +51,8 @@
 | [avoidObstacles](https://github.com/mrgold92/CodeSignal/blob/master/src/avoidObstacles/Main.java)                                 |
 | [boxBlur](https://github.com/mrgold92/CodeSignal/blob/master/src/boxBlur/Main.java)                                               |
 | [minesWeeper](https://github.com/mrgold92/CodeSignal/blob/master/src/minesWeeper/Main.java)                                       |
+
+## Rains of Reason
+| Algoritmos                                                                                    |
+|-----------------------------------------------------------------------------------------------|
+| [arrayReplace](https://github.com/mrgold92/CodeSignal/blob/master/src/arrayReplace/Main.java) |
